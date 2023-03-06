@@ -2,4 +2,19 @@
     padding: 0;
     margin: 0;
 }
+.contenedor-img{
+    display: flex;
+    border: 2px;
+    justify-content: center;
+    border-style: solid;
+    border-color:gray;
+    margin-top: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 5%;
+    width: 85%;
+    height: 100%;
+}
+
+
 
