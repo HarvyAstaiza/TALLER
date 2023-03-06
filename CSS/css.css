@@ -2,18 +2,46 @@
     padding: 0;
     margin: 0;
 }
-.contenedor-img{
+.contenedor-img-1{
     display: flex;
     border: 2px;
     justify-content: center;
     border-style: solid;
     border-color:gray;
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: 8%;
     margin-right: 8%;
-    margin-bottom: 5%;
     width: 85%;
     height: 100%;
+}
+.contenedor-img-bio{
+    display: flex;
+    border: 2px;
+    justify-content: right;
+    border-style: solid;
+    border-color:gray;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    width: 85%;
+    height: 100%;
+}
+.img-gabo{
+    display: flex;
+    width: 60%;
+    margin: 20px;
+    justify-content: center;
+}
+.img-biografia{
+    width: 27%;
+    height: 5%;
+    margin: 3%;
+    justify-content: center;
+}
+.contenedor-btn{
+    display: flex;
+    margin: 1%;
+    justify-content: center;
 }
 
 
