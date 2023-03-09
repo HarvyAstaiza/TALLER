@@ -9,7 +9,7 @@
     justify-content: center;
     border-style: solid;
     border-color:gray;
-    margin-top: 2%;
+    margin-top: 6.5%;
     margin-left: 8%;
     margin-right: 8%;
     width: 85%;
@@ -21,7 +21,7 @@
     justify-content: right;
     border-style: solid;
     border-color:gray;
-    margin-top: 2%;
+    margin-top: 5.7%;
     margin-left: 8%;
     margin-right: 8%;
     width: 85%;
@@ -29,7 +29,7 @@
 }
 .img-gabo{
     display: flex;
-    width: 60%;
+    width: 50%;
     margin: 20px;
     justify-content: center;
 }
@@ -61,4 +61,8 @@
     font-family: 'Segoe UI';
 }
 
-
+.pie{
+    padding: 0;
+    margin: 0;
+    background-color: red;
+}
